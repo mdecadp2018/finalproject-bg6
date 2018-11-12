@@ -292,7 +292,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181001103423.2">## 2018Fall 分組網際簡報
+<t tx="leo.20181001103423.2">## 2018Fall bg-6分組網際簡報
 
 ### 虎科大機械設計工程系
 
@@ -300,7 +300,7 @@ make.start()
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[2018 Fall bg-6分組網誌](./../blog/index.html)
 
 
 </t>
