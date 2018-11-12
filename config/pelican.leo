@@ -32,7 +32,7 @@
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 </v>
 <v t="yen.20170224232341.1"><vh>編輯 template</vh>
-<v t="leo.20180115093448.1" a="E"><vh>@path theme/attila/templates</vh>
+<v t="leo.20180115093448.1"><vh>@path theme/attila/templates</vh>
 <v t="leo.20180715212936.1"><vh>@edit article.html</vh></v>
 <v t="leo.20180115093536.1"><vh>@edit base.html</vh></v>
 <v t="leo.20180115093657.1"><vh>@edit search.html</vh></v>
@@ -47,7 +47,7 @@
 <v t="yen.20170224232341.2" a="E"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
 <v t="yen.20170224232341.3"><vh>@edit base.html</vh></v>
 </v>
-<v t="leo.20170710015301.1" a="E"><vh>@path theme/pelican-bootstrap3/templates</vh>
+<v t="leo.20170710015301.1"><vh>@path theme/pelican-bootstrap3/templates</vh>
 <v t="leo.20170710015311.1"><vh>@edit search.html</vh></v>
 <v t="leo.20170710095845.1"><vh>@edit base.html</vh></v>
 <v t="leo.20170710101854.1"><vh>@edit article.html</vh></v>
