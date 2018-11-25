@@ -300,8 +300,9 @@ make.start()
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall bg-6-Blog ](./../blog/index.html)
-[2018 Fall bg-6-Website ](./../blog/index.html)
+[Blog ](./../blog/index.html)
+
+[Website ](./../content/index.html)
 
 
 </t>
