@@ -1,8 +1,8 @@
 # 2018fall
-2018 Fall bg-6 分組倉儲
+2018 Fall bg-6 github 
 
-* 網站:https://mdecadp2018.github.io/finalproject-bg6/content/index.html
+* Website:https://mdecadp2018.github.io/finalproject-bg6/content/index.html
 
-* 網誌:https://mdecadp2018.github.io/finalproject-bg6/blog/index.html
+* Blog:https://mdecadp2018.github.io/finalproject-bg6/blog/index.html
 
-* 簡報:https://mdecadp2018.github.io/finalproject-bg6/reveal/index.html#/
+* Reveal:https://mdecadp2018.github.io/finalproject-bg6/reveal/index.html#/
