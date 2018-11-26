@@ -6,3 +6,7 @@
 * Blog:https://mdecadp2018.github.io/finalproject-bg6/blog/index.html
 
 * Reveal:https://mdecadp2018.github.io/finalproject-bg6/reveal/index.html#/
+
+[Blog ](https://mdecadp2018.github.io/finalproject-bg6/blog/index.html)
+
+[Website ](./../content/index.html)
